@@ -195,6 +195,8 @@ map.html :
 ![sec](./images/boys.png)
 ## SEC ECE
 ![sec](./images/ece.png)
+## HTML VALIDATOR
+![sec](./images/Htmlvalid.png)
 
 # Result:
 Thus The Web Is Developed To Show The Details Of SEC
